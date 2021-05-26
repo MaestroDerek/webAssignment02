@@ -16,4 +16,4 @@ MongoDB Apache Node Python, These are used in a stack for the website Uber.
 
 # MNDP
 
-MongoDB NGINX Django Pythong, These are used in a stack for the website Reddit.
+MongoDB NGINX Django Python, These are used in a stack for the website Reddit.
